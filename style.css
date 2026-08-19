@@ -1,0 +1,15 @@
+*{
+   margin: 0; 
+   padding: 0 ;
+   list-style: none;
+   box-sizing:border-box
+}
+
+:root {
+  
+   --color-body-bg: #DED8ED;
+   --color-lightest: #baafd9;
+   --color-light:#bda6f0;  
+   --color-dark:  #784cd0;
+}
+ 
